@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 84958876859966347}
   m_Layer: 0
   m_Name: Point2
-  m_TagString: Point
+  m_TagString: Bouncer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -1070,7 +1070,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bcf29cc88ed6f904483ab7752ae0dae7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ball: {fileID: 2096647352370161303, guid: 006e3cf389d80264e81c8aaa09fedc73, type: 3}
+  ball: {fileID: 6294784441336405583, guid: 006e3cf389d80264e81c8aaa09fedc73, type: 3}
   startButton: {fileID: 1408307689}
   highScoreText: {fileID: 1327669231}
   scoreText: {fileID: 354853814}
@@ -2776,6 +2776,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Point2
       objectReference: {fileID: 0}
+    - target: {fileID: 8816555078955935867, guid: 16d1780c15441c3468dffc473b21a973, type: 3}
+      propertyPath: m_TagString
+      value: Point2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2911,7 +2915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3561848340361718564, guid: 6d80854863568d94da5ceb92c05492bf, type: 3}
       propertyPath: m_TagString
-      value: Point
+      value: Point1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2935,7 +2939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5980325874488648266, guid: 8e0e37992fe6a8a4fb0c55b5697b4004, type: 3}
       propertyPath: m_TagString
-      value: Point
+      value: Point3
       objectReference: {fileID: 0}
     - target: {fileID: 8529960586848505997, guid: 8e0e37992fe6a8a4fb0c55b5697b4004, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3003,7 +3007,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3475578435566240636, guid: cb7d5be4f851f314db2079fd5a32f19d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 3475578435566240636, guid: cb7d5be4f851f314db2079fd5a32f19d, type: 3}
       propertyPath: m_LocalRotation.w

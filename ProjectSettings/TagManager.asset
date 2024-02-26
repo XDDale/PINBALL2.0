@@ -5,9 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Dead
-  - Point
   - Flipper
   - Bouncer
+  - Point1
+  - Point2
+  - Point3
   layers:
   - Default
   - TransparentFX
